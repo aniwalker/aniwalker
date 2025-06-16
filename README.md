@@ -1,18 +1,23 @@
-## Hola! , mi nombre es ángel Huete , y estoy empezando a darle caña a ésto... 👋
+# Bienvenidos a mi **espacio de trabajo!**
+## aprendiendo __markdown__ para ==animar esto un poco==
+### comprobando si va a ~~funcionar~~
+## tratando de _no volverme loco_ con tanta herramienta *como hay por aquí*
 
-#MarkDown - bajarse instrucciones 
+> cuando tenga tiempo
+> espero poder ir animando ésto:
+>> pero antes
+>>> tengo que aprender:
 
-<!--
-**aniwalker/aniwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+1. lenguajes
+   : javascript
+   2.typescript
+_______
+       
+3. herramientas
+     1.github
+     2.angular
+     3.nodejs
+     4.tailwind
+      5.docker ...
+_________________
