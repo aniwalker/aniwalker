@@ -1,4 +1,6 @@
-# Bienvenidos a mi **espacio de trabajo!**
+https://raw.githubusercontent.com/aniwalker/newCity/main/assets/kebraGit2.jpg
+
+## Bienvenidos a mi **espacio de trabajo!**
 ## aprendiendo __markdown__ para ==animar esto un poco==
 ### comprobando si va a ~~funcionar~~
 ## tratando de _no volverme loco_ con tanta herramienta *como hay por aquí*
