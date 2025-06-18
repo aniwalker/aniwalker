@@ -1,4 +1,7 @@
-https://raw.githubusercontent.com/aniwalker/newCity/main/assets/kebraGit2.jpg
+<span>![</span><span>luchando contra las tecnologías...</span><span>]</span>
+<span>(</span>
+<span>httpS://https://raw.githubusercontent.com/aniwalker/newCity/main/assets/kebragit2.jpg</span>)</span>
+
 
 ## Bienvenidos a mi **espacio de trabajo!**
 ## aprendiendo __markdown__ para ==animar esto un poco==
