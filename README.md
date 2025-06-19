@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/cf6ee9ba-38dc-4982-b567-0f5c3817b883)
 
-## Bienvenidos a mi **espacio de trabajo!**
-## aprendiendo __markdown__ para ==animar esto un poco==
+## saludos terrícolas!!
+## aprendiendo __markdown__ para animar un poco este espacio
 ### comprobando si va a ~~funcionar~~
 ## tratando de _no volverme loco_ con tanta herramienta *como hay por aquí*
 
