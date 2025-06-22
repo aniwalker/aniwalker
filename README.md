@@ -1,27 +1,25 @@
 ![image](https://github.com/user-attachments/assets/cf6ee9ba-38dc-4982-b567-0f5c3817b883)
 
-## saludos terrícolas!!
-## aprendiendo __markdown__ para animar un poco este espacio
-### comprobando si va a ~~funcionar~~
-## tratando de _no volverme loco_ con tanta herramienta *como hay por aquí*
+## *!!Saludos, Terrícolas!!*
 
-> cuando tenga tiempo
-> espero poder ir animando ésto:
->> pero antes
->>> tengo que aprender:
+Voya ir completando este Readme a la vez que me especializao en herramientas:
 
-***
-1. lenguajes
-   : javascript
-   2.typescript
-_______
-       
-3. herramientas
-     1.github
-     2.angular
-     3.nodejs
-     4.tailwind
-      5.docker ...
-_________________
-##para empezar ya hemos hecho algo con ***md***
-https://ed.team/u/angelhuete/curso/markdown
+    1.JavaScript    
+```javascript
+console.log('HolaMundo!!!')
+```
+    2.TypeScript
+    3.Angular
+    4.NodeJs
+    5.Tailwindcss
+    6.**Dockerizaremos todo**
+
+>aprende MD y serás capaz de dominar el mundo...
+
+
+Luego le pondré iconos...
+
+
+
+
+
