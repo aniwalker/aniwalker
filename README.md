@@ -12,7 +12,8 @@ console.log('HolaMundo!!!')
     3.Angular
     4.NodeJs
     5.Tailwindcss
-    6.**Dockerizaremos todo**
+    6.*Dockerizaremos todo*
+    7.MarkDown
 
 >aprende MD y serás capaz de dominar el mundo...
 
