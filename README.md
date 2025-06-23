@@ -2,7 +2,7 @@
 
 ## *!!Saludos, Terrícolas!!*
 
-Voya ir completando este Readme a la vez que me especializao en herramientas:
+Voya ir completando este Readme a la vez que me especializo en las ss. herramientas:
 
     1.JavaScript    
 ```javascript
