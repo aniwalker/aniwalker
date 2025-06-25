@@ -6,7 +6,7 @@ Voya ir completando este Readme a la vez que me especializo en las ss. herramien
 
     1.JavaScript    
 ```javascript
-console.log('HolaMundo!!!')
+console.log('saludos Terrícolas!!!')
 ```
     2.TypeScript
     3.Angular
